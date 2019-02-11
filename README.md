@@ -32,4 +32,3 @@ Ada tiga macam kondisional di python, yang dapat anda gunakan untuk membangun al
 # OUTPUT
 ![screenshot 31](https://user-images.githubusercontent.com/46512670/52549778-86a32b80-2e07-11e9-80ee-4a69290e8786.png)
 
-111```
