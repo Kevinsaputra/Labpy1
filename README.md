@@ -1,4 +1,4 @@
-# PROGRAM MENCARI NILAI TWERTINGGI DARI 3 BUAH NILAI YANG DI INPUTKAN MENGGUNAKAN IF
+# PROGRAM MENCARI NILAI TERTINGGI DARI 3 BUAH NILAI YANG DI INPUTKAN MENGGUNAKAN IF
 # INPUT
 a=int(input("Masukan Bilangan a:"))
 
@@ -22,6 +22,8 @@ if max<c:
 print("Nilai Terbesar= ",max)
 
 print("------------------------")
+
+
 
 Ada tiga macam kondisional di python, yang dapat anda gunakan untuk membangun alur logika untuk program anda. python memiliki statement if, if..else, dan if..elif..else
 
